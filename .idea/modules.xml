@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/android-dial-picker.iml" filepath="$PROJECT_DIR$/android-dial-picker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dialpicker/dialpicker.iml" filepath="$PROJECT_DIR$/dialpicker/dialpicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/android-dial-picker.iml" filepath="$PROJECT_DIR$/.idea/android-dial-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-dial-picker.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-dial-picker.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dialpicker/android-dial-picker.dialpicker.iml" filepath="$PROJECT_DIR$/.idea/modules/dialpicker/android-dial-picker.dialpicker.iml" />
     </modules>
   </component>
 </project>

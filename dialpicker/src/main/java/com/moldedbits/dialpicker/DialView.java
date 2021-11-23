@@ -675,4 +675,3 @@ public class DialView extends View {
         void onDialValueChanged(String value, int maxValue);
     }
 }
-
